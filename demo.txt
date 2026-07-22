@@ -1,2 +1,3 @@
 Hello GitHub
 Welcome to Git
+This line is from feature branch.
